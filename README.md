@@ -1,6 +1,6 @@
 # Docker image to download the INEGI SCINCE 2020
 
-You can run the script to download the docker image with
+You can run the script to download the SCINCE shapefiles with
 
 
 ```sh
